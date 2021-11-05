@@ -10,6 +10,8 @@ def f0(max: int):
 def przemyslawstoklosa():
     print("Przemysław Stokłosa")
 
+def dominikfoks():
+    print("Dominik Foks")
 
 if __name__ == '__main__':
     print('PyCharm')
