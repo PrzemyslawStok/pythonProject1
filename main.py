@@ -13,6 +13,9 @@ def przemyslawstoklosa():
 def przemyslawstoklosa1():
     print("Przemysław Stokłosa1")
 
+def przemyslawstoklosa2():
+        print("Przemysław Stokłosa2")
+
 
 if __name__ == '__main__':
     print('PyCharm')
