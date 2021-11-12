@@ -13,10 +13,12 @@ def przemyslawstoklosa():
 def przemyslawstoklosa1():
     print("Przemysław Stokłosa1")
 
+
 if __name__ == '__main__':
     print('PyCharm')
     print("Nowa linia")
 
     printText("Przemysław Stokłosa")
+
     f0(10)
 
